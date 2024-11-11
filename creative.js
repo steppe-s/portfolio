@@ -2,7 +2,7 @@ var data = [
     {
         "title":"Creatures of the Deep",
         "description": "A game for a course",
-        "image":"images/FrontPagePic.png",
+        "image":"images/cotd/FrontPagePic.png",
         "itch":"https://raul-martin.itch.io/creatures-of-the-deep",
         "page":"Hello"
     },
