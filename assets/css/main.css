@@ -3911,3 +3911,25 @@ input, select, textarea {
 			}
 
 		}
+
+
+ul.title-tag-list {
+			display: -moz-flex;
+			display: -webkit-flex;
+			display: -ms-flex;
+			display: flex;
+			cursor: default;
+			list-style: none;
+			padding-left: 0;
+			margin: 0;
+			padding: 0;
+		}
+
+		ul.title-tag-list li {
+			vertical-align: middle;
+			padding: 0;
+		}
+
+code.tag {
+	margin: 0 0 .5em 1em;
+}
