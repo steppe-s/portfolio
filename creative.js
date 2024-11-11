@@ -1,13 +1,9 @@
+import data from 'data/creative_works.json' assert { type: 'json' };
+
 function GetCreativeWorks(){
-    fetch('data/creative_works.json')
-    .then((response) => response.json())
-    .then((json) => console.log(json));
-
-
-
-
-
-
-
-
+    for(let i = 0; i < data.length; i++) {
+        let obj = data[i];
+    
+        console.log(obj.id);
+    }
 }

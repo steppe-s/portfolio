@@ -1,6 +1,23 @@
 [
     {
         "title":"Creatures of the Deep",
-        "description": "A game for a course"
+        "description": "A game for a course",
+        "image":"",
+        "itch":"",
+        "date":""
+    },
+    {
+        "title":"",
+        "description": "A game for a course",
+        "image":"",
+        "itch":"",
+        "date":""
+    },
+    {
+        "title":"Creatures of the Deep",
+        "description": "A game for a course",
+        "image":"",
+        "itch":"",
+        "date":""
     }
 ]
