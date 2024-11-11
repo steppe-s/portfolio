@@ -9,15 +9,22 @@ var data = [
     {
         "title":"Anomaly Clean-up Squad",
         "description": "A game for a course",
-        "image":"",
-        "itch":"",
+        "image":"images/acs/acs.png",
+        "itch":"https://grassland.itch.io/anomaly-clean-up-sqaud",
         "page":""
     },
     {
         "title":"Thingamajig-inator",
         "description": "A game for a course",
-        "image":"YUwX1d.gif",
-        "itch":"",
+        "image":"images/thingamajig/YUwX1d.gif",
+        "itch":"https://buddhadom.itch.io/thingamajig-inator",
+        "page":""
+    },
+    {
+        "title":">Hotfix",
+        "description": "A game for a course",
+        "image":"images/hotfix/b0Xz57.png",
+        "itch":"https://grassland.itch.io/hotfix",
         "page":""
     }
 ]
